@@ -1,0 +1,23 @@
+{
+  "name": "somosancla",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Somaless/SomosAncla.git"
+  },
+  "author": "somaless",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Somaless/SomosAncla/issues"
+  },
+  "homepage": "https://github.com/Somaless/SomosAncla#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1"
+  }
+}

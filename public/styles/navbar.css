@@ -1,0 +1,17 @@
+
+
+.navbar-container {
+    height: 50px;
+    background-color: rgb(230,230,230)
+}
+.navbar-link {
+    color: rgb(30,30,03);
+    font-weight: 700;
+}
+
+.navbar-link:hover {
+    color: blue;
+}
+
+
+/* #1b3c50 */
